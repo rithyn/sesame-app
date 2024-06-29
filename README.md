@@ -1,3 +1,3 @@
 # sesame-app
 
-A new application for Sesame
+A new application for Sesame Admins
